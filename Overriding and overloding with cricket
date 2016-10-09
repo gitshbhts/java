@@ -1,0 +1,25 @@
+class Run{
+int run(){
+return 0;}
+}
+class Virat extends Run{
+int run (){
+return 211;}
+class Rahne extends Run{
+int run(){
+return 188;}
+class Rohit extends RUN
+{
+int run(){
+return 100;}
+class Summery
+{
+public static void main(String args[]);
+{
+Virat v=new Virat();
+Rahne r=new Rahne();
+Rohit R=new Rohit();
+System.out.println("Virat kohli run is"+v.run);
+System.out.println("Rahne kohli run is"+r.run);
+System.out.println("Rohit  run is"+R.run);
+}
